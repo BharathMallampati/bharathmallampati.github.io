@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bharath Kumar Mallampati - Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+        header, section { padding: 20px; }
+        header { background-color: #333; color: #fff; text-align: center; }
+        h1, h2, h3 { color: #333; }
+        a { color: #007acc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .container { width: 80%; margin: auto; }
+        .contact-info, .skills, .certifications { display: flex; flex-direction: column; }
+        .experience, .project { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Bharath Kumar Mallampati</h1>
+    <p>SAFe Agilist & Certified ScrumMaster</p>
+</header>
+
+<section>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>I am a SAFe Agilist and Certified ScrumMaster with 12+ years of experience in Agile Project Delivery across IT, Telecom, Oil & Gas, and Manufacturing industries. Currently, I oversee Agile project transitions and delivery as a Team Manager, leveraging expertise in tools like Jira, Confluence, Aconex, Clarity, and New Relic to enhance project efficiency and team collaboration.</p>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>Email: <a href="mailto:bharathmallampati@gmail.com">bharathmallampati@gmail.com</a></p>
+            <p>Phone: +91-9925450779</p>
+            <p><a href="https://www.linkedin.com">LinkedIn Profile</a></p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <h2>Experience</h2>
+
+        <div class="experience">
+            <h3>Cognizant - Team Manager - Transitions</h3>
+            <p><strong>May 2022 - Dec 2024</strong></p>
+            <ul>
+                <li>Led Agile project delivery, aligning stakeholders and managing product launches.</li>
+                <li>Organized Agile workshops, improving team efficiency by 30% and reducing time-to-market by 25%.</li>
+            </ul>
+        </div>
+
+        <div class="experience">
+            <h3>Adani Group - Project Engineer</h3>
+            <p><strong>Feb 2016 - Apr 2022</strong></p>
+            <ul>
+                <li>Enhanced Agile adoption in manufacturing projects, improving tracking by 20%.</li>
+            </ul>
+        </div>
+
+        <div class="experience">
+            <h3>Reliance Industries Ltd - Manager</h3>
+            <p><strong>Mar 2014 - Jan 2016</strong></p>
+            <ul>
+                <li>Managed SAP implementations, reducing cycle times and improving project outcomes.</li>
+            </ul>
+        </div>
+
+        <div class="experience">
+            <h3>Megha Engineering & Infra Ltd - GET & Engineer</h3>
+            <p><strong>Jan 2012 - Feb 2014</strong></p>
+            <ul>
+                <li>Coordinated ERP integrations and supported engineering teams in design validation.</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <h2>Portfolio</h2>
+
+        <div class="project">
+            <h3>Telecom Agile Transition - Cognizant</h3>
+            <p>Delivered agile coaching and led teams, boosting efficiency by 30%.</p>
+        </div>
+
+        <div class="project">
+            <h3>Manufacturing Project Optimization - Adani Group</h3>
+            <p>Used Agile methodologies and Oracle customization to improve tracking by 20%.</p>
+        </div>
+
+        <div class="project">
+            <h3>Oil & Gas Refinery Expansion - Reliance Industries</h3>
+            <p>Managed end-to-end SAP module implementations, reducing costs and increasing transparency.</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <h2>Skills</h2>
+        <div class="skills">
+            <p><strong>Agile Methodologies:</strong> Scrum, Kanban, SAFe</p>
+            <p><strong>Tools:</strong> Jira, Confluence, Aconex, SAP, Clarity, New Relic</p>
+            <p><strong>Core Skills:</strong> Agile Transformation, Project Management, Team Leadership, Conflict Resolution</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <h2>Certifications</h2>
+        <div class="certifications">
+            <p>Certified ScrumMaster (CSM)</p>
+            <p>SAFe 6 Agilist</p>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>
